@@ -9,10 +9,8 @@ An even lower level headding. This is *bold* and this is _italics_
 
 You can do numbered lists like this
 1. List item #1
-2. List item #2
-    a. asdf
-   
-4. asdf
+1. List item #2   
+1. asdf
 
 You can do a bulleted list like this:
 * Item #1
