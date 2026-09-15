@@ -19,8 +19,6 @@ You can do a bulleted list like this:
 * ...
 
 You can even paste screenshots into github like this:
-<img width="431" height="244" alt="image" src="https://github.com/user-attachments/assets/23822b91-b05e-4efb-995b-cca457e7b27b" />
-
 
 <img width="122" height="71" alt="image" src="https://github.com/user-attachments/assets/ecbd8fd3-c651-47c0-b697-9c0034284f6b" />
 
