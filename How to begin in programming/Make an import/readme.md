@@ -43,3 +43,7 @@ import foo
 ```
 
 This will Cause a circular import error because of how foo.py and bar.py are both attempting to import each other. This error will also occur if you try to import specific parts of a file (i.e. a class, a function, a variable, etc) even if the specific parts of the files do not dircetly rely on each other.
+
+## Practice Problems:
+
+Go to the [main.py](./main.py) file in this folder and import exampleFunction from [exampleFile.py](./exampleFile.py) and run it
